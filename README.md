@@ -8,9 +8,10 @@
 **Project Title**: Consumer Goods Ad-hoc Insights  
 **Database**: gdb023
 
+## Objectives
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore and analyze consumer Goods. The project involves setting up a database, performing  data analysis, and answering (specific business questions) Ad-hoc requests through SQL queries.
 
-## Objectives
+## Process
 **1.Set up a  database**: Create and populate a  database with the provided  data.   
 
 1.dim_customer: contains customer-related data   
