@@ -3,35 +3,18 @@
 
 # Consumer Goods Analysis
 
-## Project Overview  
 
-**Project Title**: Consumer Goods Ad-hoc Insights  
-**Database**: gdb023
+
+
 
 ## Objectives
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore and analyze consumer Goods. The project involves setting up a database, performing  data analysis, and answering (specific business questions) Ad-hoc requests through SQL queries.
 
-## Process
-**1.Set up a  database**: Create and populate a  database with the provided  data.   
-
-1.dim_customer: contains customer-related data   
-2.dim_product: contains product-related data   
-3.fact_gross_price: contains gross price information for each product    
-4.fact_manufacturing_cost: contains the cost incurred in the production of each product   
-5.fact_pre_invoice_deductions: contains pre-invoice deductions information for each product  
-6.fact_sales_monthly: contains monthly sales data for each product.
-
-**2.Business Analysis**: Used SQL to answer specific business questions and derive insights from the  data.  
-
-**3.Visualising the insights** : Used Power Bi to visualise the outcomes.
 
 
-## Project Structure
-## 1. Database Setup
-Database Creation: The project starts by creating a database named gdb023 by using the provided database creation file.
 
 
-## 2. Data Analysis & Findings
+## Data Analysis & Findings
 The following SQL queries were developed to answer Ad-hoc requests
 
 **1.Provide the list of markets in which customer  "Atliq  Exclusive"  operates its  business in the  APAC  region.** 
